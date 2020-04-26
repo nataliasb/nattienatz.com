@@ -1,7 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Droid+Serif|Roboto';
 
 body {
-	background: #cecece;
+	background: #ffffff;
 	font-family: 'Roboto', sans-serif;
 }
 
@@ -20,7 +20,7 @@ a {
 }
 
 h1 a, ul li a {
-	color: #c3996b; 
+	color: #0488FF;
 }
 
 p {
@@ -33,12 +33,12 @@ p a {
 }
 
 a:focus, a:hover {
-	color: #fff;
+	color: #6CB2F2;
 }
 
 
 hr {
-	border-top: 3px solid #fff; 
+	border-top: 3px solid #0488FF;
 }
 
 footer .rs i {
