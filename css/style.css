@@ -41,11 +41,12 @@ hr {
 	border-top: 3px solid #0488FF;
 }
 
-footer .rs i {
+.footer .rs i {
 	font-size: 3em;
+	margin-right: 10px;
 }
 
-footer {
+.footer {
 	color: #fff;
 	margin-top: 20px;
 	padding-bottom: 200px;
@@ -54,4 +55,13 @@ footer {
 #footer {
 	margin-top: 100px;
 	background: #000;
+}
+
+a.home-link {
+	color: #000;
+	text-decoration: none;
+}
+
+a.home-link:hover {
+	color: #d3d3d3;
 }
