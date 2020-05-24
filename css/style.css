@@ -65,3 +65,11 @@ a.home-link {
 a.home-link:hover {
 	color: #d3d3d3;
 }
+
+.email {
+	color: #0488FF;
+}
+
+.sec-email {
+	display: none;
+}
