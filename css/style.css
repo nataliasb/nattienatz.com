@@ -11,7 +11,13 @@ h1, h2, h3, h4, h5 {
 }
 
 h3 {
-	margin-bottom: -10px;
+	font-family: 'Muli', sans-serif;
+	font-size: 1.2em;
+	font-weight: 700;
+}
+
+h2 {
+	margin-bottom: 40px;
 }
 
 a {
@@ -24,7 +30,8 @@ h1 a, ul li a {
 }
 
 p {
-	line-height: 1.8em;
+	line-height: 1.5em;
+	font-size: .8em;
 }
 
 p a {
@@ -72,4 +79,12 @@ a.home-link:hover {
 
 .sec-email {
 	display: none;
+}
+
+.intro {
+	margin-top: 45px;
+}
+
+.achievements img {
+	margin-bottom: 20px;
 }
