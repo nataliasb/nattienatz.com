@@ -93,3 +93,12 @@ a.home-link:hover {
 	float: left;
 	margin-right: 10px;
 }
+
+.body-text {
+	font-size: 1em;
+	line-height: 1.8em;
+}
+
+.img-about-me {
+	margin-bottom: 20px;
+}
