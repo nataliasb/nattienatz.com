@@ -88,3 +88,8 @@ a.home-link:hover {
 .achievements img {
 	margin-bottom: 20px;
 }
+
+.logo {
+	float: left;
+	margin-right: 10px;
+}
