@@ -102,3 +102,8 @@ a.home-link:hover {
 .img-about-me {
 	margin-bottom: 20px;
 }
+
+.body-text {
+	font-size: 1em;
+	margin-bottom: 30px;
+}
